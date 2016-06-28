@@ -1,8 +1,3 @@
-/*css of the cklvin university*/
-
-.troy {
-    float: right;
-}
 body {
     background-color: limegreen;
 }
@@ -24,13 +19,12 @@ h1 {
     float: left;
     font-family: Arial;
     font-size: 70px;
-    padding: 20px;
+    padding-left: 20px;
     text-align: center;
     margin: auto;
 }
 #nav {
     background-color: darkkhaki;
-    margin-top: 220px;
     width: 1500px;
 }
 #nav ul {}
@@ -53,31 +47,26 @@ h1 {
 }
 #content {
     position: relative;
+    padding-top: 100px;
     right: 1%;
     background: darkkhaki;
     font: italic bold 15px georgia;
-    padding: 60px;
-    margin-top: 50px;
     height: 250px;
-    margin-right: 120px;
-    margin-left: 10px;
-    height: 100%;
+    margin-right: 3px;
+    margin-left: 3px;
+    margin-top: 200px;
     width: 100%;
-}
-.now {
-    float: right;
-    border="1";
-    width 100%;
-    height: 250px;
-}
-.now img {
-    width: 800px;
-    height: 845px;
 }
 #footer p {
     display: block;
     text-align: right;
     font-size: 80%;
     color: grey;
+    float: inherit;
 }
-
+.now {
+    text-align: center;
+    padding-right: 30px;
+    margin-right: 15px;
+    font-size: 30px;
+}
