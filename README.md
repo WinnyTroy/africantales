@@ -1,2 +1,2 @@
 # africantales
-A website that gives the culture and history of the African people.
+A website esp made for toddlers to help them understand the African heritage and beliefs. Why Africans do things the way they do.
