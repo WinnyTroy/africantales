@@ -1,2 +1,3 @@
-# africantales
-A website esp made for toddlers to help them understand the African heritage and beliefs. Why Africans do things the way they do.
+Click the buttons to read the book. 
+
+The background is dynamically generated with CSS jQuery to give it the old paper effect.
